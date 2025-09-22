@@ -1,5 +1,7 @@
 # Python
 __pycache__/
+usersys/__pycache__/
+users/__pycache__/
 *.py[cod]
 *.pyo
 *.pyd
